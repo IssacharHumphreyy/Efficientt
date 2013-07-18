@@ -2,15 +2,7 @@ body {
     background-color: Turquoise;
 }
 
-h1 {
-    color: SteelBlue;
-    padding: 5px;
-    margin: 50px;
-    border-style: ridge;
-    border-color: SteelBlue
-}
-
-li {
+h4 {
     color: SteelBlue;
     padding: 5px;
     margin: 50px;
